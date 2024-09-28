@@ -7,7 +7,7 @@
 */
 
 
-.page-forum .forum .message .replied{
+.page-forum .forum .message .replied *{
      background-color: var(--table2) !important;
 }
 
